@@ -1,0 +1,1802 @@
+{
+  "selling_points": [
+    {
+      "id": 1,
+      "name": "24/7 Support",
+      "short_name": "247support",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "name": "800 games",
+      "short_name": "800games",
+      "created_at": "2022-07-20 16:31:42",
+      "updated_at": "2020-05-14 15:29:00",
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "name": "1000 Games",
+      "short_name": "1000_games",
+      "created_at": "2022-07-20 16:31:42",
+      "updated_at": "2020-05-28 18:05:05",
+      "deleted_at": null
+    },
+    {
+      "id": 4,
+      "name": "Bank ID",
+      "short_name": "bankid",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 5,
+      "name": "Bingo",
+      "short_name": "bingo",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 6,
+      "name": "Bitcoin",
+      "short_name": "bitcoin",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 7,
+      "name": "Classic slots",
+      "short_name": "classicslots",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 8,
+      "name": "Download casino",
+      "short_name": "downloadcasino",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 9,
+      "name": "Easy registration",
+      "short_name": "easyregistration",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 10,
+      "name": "Editor's choice",
+      "short_name": "editorschoice",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 11,
+      "name": "Fast payouts",
+      "short_name": "fastpayouts",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 12,
+      "name": "Free Spins",
+      "short_name": "freespins",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 13,
+      "name": "Highroller",
+      "short_name": "highroller",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 14,
+      "name": "Jackpot slots",
+      "short_name": "jackpotslots",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 15,
+      "name": "Live Casino",
+      "short_name": "livecasino",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 16,
+      "name": "Lottery",
+      "short_name": "lottery",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 17,
+      "name": "Low wager",
+      "short_name": "lowwager",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 18,
+      "name": "New",
+      "short_name": "new",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 19,
+      "name": "No deposit bonus",
+      "short_name": "nodepositbonus",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 20,
+      "name": "Player's Choice",
+      "short_name": "playerschoice",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 21,
+      "name": "Popular",
+      "short_name": "popular",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 22,
+      "name": "Pretty site",
+      "short_name": "prettysite",
+      "created_at": "2022-07-20 16:31:41",
+      "updated_at": "2020-07-29 12:59:34",
+      "deleted_at": null
+    },
+    {
+      "id": 23,
+      "name": "Same day payout",
+      "short_name": "samedaypayout",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 24,
+      "name": "Scratchcards",
+      "short_name": "scratchcards",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 25,
+      "name": "Sportsbook",
+      "short_name": "sportsbook",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 26,
+      "name": "Super-secure",
+      "short_name": "supersecure",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 27,
+      "name": "Tax Free",
+      "short_name": "taxfree",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 28,
+      "name": "Top Bonus",
+      "short_name": "topbonus",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 29,
+      "name": "VIP",
+      "short_name": "vip",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 30,
+      "name": "Wide choice",
+      "short_name": "widechoice",
+      "created_at": "2022-07-20 16:31:48",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 31,
+      "name": "Stort og stabilt velkomsttilbud",
+      "short_name": "stort_og_stabilt_velkomsttilbud",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:23:25",
+      "deleted_at": null
+    },
+    {
+      "id": 32,
+      "name": "test selling",
+      "short_name": "test_selling",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:23:36",
+      "deleted_at": null
+    },
+    {
+      "id": 33,
+      "name": "Up to $500 welcome offer",
+      "short_name": "up_to_500_welcome_offer",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:23:44",
+      "deleted_at": null
+    },
+    {
+      "id": 34,
+      "name": "Great payment and customer support",
+      "short_name": "great_payment_and_customer_support",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:37:30",
+      "deleted_at": null
+    },
+    {
+      "id": 35,
+      "name": "Access to fantasy sports with one account",
+      "short_name": "access_to_fantasy_sports_with_one_account",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:23:50",
+      "deleted_at": null
+    },
+    {
+      "id": 36,
+      "name": "$10 free no deposit bonus",
+      "short_name": "10_free_no_deposit_bonus",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:01:52",
+      "deleted_at": null
+    },
+    {
+      "id": 37,
+      "name": "Huge variety of bets",
+      "short_name": "huge_variety_of_bets_and_sports",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 17:00:54",
+      "deleted_at": null
+    },
+    {
+      "id": 38,
+      "name": "Great mobile app",
+      "short_name": "great_mobile_app",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-07-29 18:54:01",
+      "deleted_at": null
+    },
+    {
+      "id": 39,
+      "name": "Risk-free bet up to $500",
+      "short_name": "riskfree_bet_up_to_500",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:39:46",
+      "deleted_at": null
+    },
+    {
+      "id": 40,
+      "name": "Attractive odds boost feature",
+      "short_name": "attractive_odds_boost_feature",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:40:22",
+      "deleted_at": null
+    },
+    {
+      "id": 41,
+      "name": "Great website and app design",
+      "short_name": "great_website_and_app_design",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 13:04:26",
+      "deleted_at": null
+    },
+    {
+      "id": 42,
+      "name": "Cashback on your first bet up to $100",
+      "short_name": "cashback_on_your_first_bet_up_to_100",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:40:55",
+      "deleted_at": null
+    },
+    {
+      "id": 43,
+      "name": "Boosted parlays with enhanced odds",
+      "short_name": "boosted_parlays_with_enhanced_odds",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:41:26",
+      "deleted_at": null
+    },
+    {
+      "id": 44,
+      "name": "Impressive range of bets",
+      "short_name": "impressive_range_of_bets",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:40:38",
+      "deleted_at": null
+    },
+    {
+      "id": 45,
+      "name": "$10 welcome bonus",
+      "short_name": "10_welcome_bonus",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 13:04:22",
+      "deleted_at": null
+    },
+    {
+      "id": 46,
+      "name": "Available in most States",
+      "short_name": "available_in_most_states",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 13:04:20",
+      "deleted_at": null
+    },
+    {
+      "id": 47,
+      "name": "$5 welcome bonus",
+      "short_name": "5_welcome_bonus",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 13:04:17",
+      "deleted_at": null
+    },
+    {
+      "id": 48,
+      "name": "$100 sign-up bonus",
+      "short_name": "100_signup_bonus",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 13:04:15",
+      "deleted_at": null
+    },
+    {
+      "id": 49,
+      "name": "$10 free",
+      "short_name": "10_free",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-08-29 16:10:17",
+      "deleted_at": null
+    },
+    {
+      "id": 50,
+      "name": "Beginner friendly",
+      "short_name": "beginner_friendly",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-08-28 20:59:37",
+      "deleted_at": null
+    },
+    {
+      "id": 51,
+      "name": "$10 free",
+      "short_name": "10_free",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:26:17",
+      "deleted_at": null
+    },
+    {
+      "id": 52,
+      "name": "Free $10",
+      "short_name": "free_10",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:04:11",
+      "deleted_at": null
+    },
+    {
+      "id": 53,
+      "name": "2 x $10 free bets",
+      "short_name": "2_x_10_free_bets",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:04:09",
+      "deleted_at": null
+    },
+    {
+      "id": 54,
+      "name": "$250 risk-free bet",
+      "short_name": "250_riskfree_bet",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:39:55",
+      "deleted_at": null
+    },
+    {
+      "id": 55,
+      "name": "Lots of betting options",
+      "short_name": "lots_of_betting_options",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-09-17 13:50:12",
+      "deleted_at": null
+    },
+    {
+      "id": 56,
+      "name": "Crypto Casino",
+      "short_name": "crypto_casino",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2023-01-02 15:44:50",
+      "deleted_at": null
+    },
+    {
+      "id": 57,
+      "name": "200 free rounds",
+      "short_name": "200_free_rounds",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:04:06",
+      "deleted_at": null
+    },
+    {
+      "id": 58,
+      "name": "Bonus up to NOK 20,000",
+      "short_name": "bonus_up_to_nok_20000",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:04:03",
+      "deleted_at": null
+    },
+    {
+      "id": 59,
+      "name": "Large selection of games",
+      "short_name": "large_selection_of_games",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-10-06 15:37:56",
+      "deleted_at": null
+    },
+    {
+      "id": 60,
+      "name": "Cashback",
+      "short_name": "cashback_on_all_games",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:41:05",
+      "deleted_at": null
+    },
+    {
+      "id": 61,
+      "name": "wagerfree bonus",
+      "short_name": "wagerfree_bonus",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-10-07 14:06:06",
+      "deleted_at": null
+    },
+    {
+      "id": 62,
+      "name": "userfriendly",
+      "short_name": "userfriendly",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-10-07 16:49:54",
+      "deleted_at": null
+    },
+    {
+      "id": 63,
+      "name": "gamified",
+      "short_name": "gamified",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-10-07 17:00:13",
+      "deleted_at": null
+    },
+    {
+      "id": 64,
+      "name": "Odds, Live Casino and Casino",
+      "short_name": "odds_live_casino_and_casino",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:26:25",
+      "deleted_at": null
+    },
+    {
+      "id": 65,
+      "name": "good bonuses for loyal customers",
+      "short_name": "good_bonuses_for_loyal_customers",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:51",
+      "deleted_at": null
+    },
+    {
+      "id": 66,
+      "name": "no deposit freespins",
+      "short_name": "no_deposit_freespins",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-10-07 17:07:00",
+      "deleted_at": null
+    },
+    {
+      "id": 67,
+      "name": "spinback",
+      "short_name": "spinback",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:47",
+      "deleted_at": null
+    },
+    {
+      "id": 68,
+      "name": "innovative",
+      "short_name": "innovative",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 13:05:32",
+      "deleted_at": null
+    },
+    {
+      "id": 69,
+      "name": "Impressive range of bonuses",
+      "short_name": "impressive_range_of_bonuses",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:26:50",
+      "deleted_at": null
+    },
+    {
+      "id": 70,
+      "name": "Best betting markets in NJ",
+      "short_name": "best_betting_markets_in_nj",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:32:23",
+      "deleted_at": null
+    },
+    {
+      "id": 71,
+      "name": "1 of the world's top sportsbooks",
+      "short_name": "one_of_the_worlds_biggest_sportsbooks",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:44",
+      "deleted_at": null
+    },
+    {
+      "id": 72,
+      "name": "Esports",
+      "short_name": "esports",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-10-15 13:02:29",
+      "deleted_at": null
+    },
+    {
+      "id": 73,
+      "name": "$300 welcome bonus",
+      "short_name": "300_welcome_bonus",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:41",
+      "deleted_at": null
+    },
+    {
+      "id": 74,
+      "name": "$10 free bet",
+      "short_name": "10_free_bet",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:38",
+      "deleted_at": null
+    },
+    {
+      "id": 75,
+      "name": "Reload bonus",
+      "short_name": "reload_bonus",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-10-30 09:50:46",
+      "deleted_at": null
+    },
+    {
+      "id": 76,
+      "name": "Very cool",
+      "short_name": "very_cool",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:26:41",
+      "deleted_at": null
+    },
+    {
+      "id": 77,
+      "name": "Polish customer support",
+      "short_name": "polish_customer_support",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:27:36",
+      "deleted_at": null
+    },
+    {
+      "id": 78,
+      "name": "Game account with PLN currency",
+      "short_name": "game_account_with_pln_currency",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:36:21",
+      "deleted_at": null
+    },
+    {
+      "id": 79,
+      "name": "Personalised bonus offer",
+      "short_name": "personalised_bonus_offer",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 14:17:59",
+      "deleted_at": null
+    },
+    {
+      "id": 80,
+      "name": "Skinpay (skins to money in Dota2)",
+      "short_name": "skinpay_skins_to_money_in_dota2",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:32",
+      "deleted_at": null
+    },
+    {
+      "id": 81,
+      "name": "deposits by e-wallets: Skrill, Neteller",
+      "short_name": "deposits_by_ewallets_skrill_neteller",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:26:57",
+      "deleted_at": null
+    },
+    {
+      "id": 82,
+      "name": "Deposits by Paysafecard",
+      "short_name": "deposits_by_paysafecard",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:35:27",
+      "deleted_at": null
+    },
+    {
+      "id": 83,
+      "name": "Double welcome bonus (200%)",
+      "short_name": "double_welcome_bonus_200",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:28",
+      "deleted_at": null
+    },
+    {
+      "id": 84,
+      "name": "Fastest payout platform",
+      "short_name": "fastest_payout_platform",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:27:27",
+      "deleted_at": null
+    },
+    {
+      "id": 85,
+      "name": "Many withdrawal options",
+      "short_name": "many_withdrawal_options",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-11-20 12:36:54",
+      "deleted_at": null
+    },
+    {
+      "id": 86,
+      "name": "$250 welcome bonus",
+      "short_name": "250_welcome_bonus",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:24",
+      "deleted_at": null
+    },
+    {
+      "id": 87,
+      "name": "Trusted and known brand",
+      "short_name": "trusted_and_known_brand",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:21",
+      "deleted_at": null
+    },
+    {
+      "id": 88,
+      "name": "Neosurf",
+      "short_name": "neosurf",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:27:06",
+      "deleted_at": null
+    },
+    {
+      "id": 89,
+      "name": "Revolut",
+      "short_name": "revolut",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:27:14",
+      "deleted_at": null
+    },
+    {
+      "id": 90,
+      "name": "3 bonuses in welcome offer",
+      "short_name": "3_bonuses_in_welcome_offer",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-18 13:03:18",
+      "deleted_at": null
+    },
+    {
+      "id": 91,
+      "name": "No withdrawal fee",
+      "short_name": "no_withdrawal_fee",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-11-29 10:39:51",
+      "deleted_at": null
+    },
+    {
+      "id": 92,
+      "name": "MuchBetter",
+      "short_name": "muchbetter",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:26:34",
+      "deleted_at": null
+    },
+    {
+      "id": 93,
+      "name": "Bonuses for Highrollers",
+      "short_name": "bonuses_for_highrollers",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2019-11-29 10:45:21",
+      "deleted_at": null
+    },
+    {
+      "id": 94,
+      "name": "Attractive promo campaigns",
+      "short_name": "atractive_promo_campaigns",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:27:44",
+      "deleted_at": null
+    },
+    {
+      "id": 95,
+      "name": "Daily bonus offers",
+      "short_name": "daily_bonus_offers",
+      "created_at": "2022-07-20 16:31:45",
+      "updated_at": "2020-02-18 13:05:23",
+      "deleted_at": null
+    },
+    {
+      "id": 96,
+      "name": "Ecopayz",
+      "short_name": "ecopayz",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:26:05",
+      "deleted_at": null
+    },
+    {
+      "id": 97,
+      "name": "Live Casino Bonus",
+      "short_name": "live_casino_bonus",
+      "created_at": "2022-07-20 16:31:35",
+      "updated_at": "2022-02-09 19:11:22",
+      "deleted_at": null
+    },
+    {
+      "id": 98,
+      "name": "7 bonuses to choose in welcome offer",
+      "short_name": "7_bonuses_to_choose_in_welcome_offer",
+      "created_at": "2022-07-20 16:31:47",
+      "updated_at": "2020-02-13 09:24:12",
+      "deleted_at": null
+    },
+    {
+      "id": 99,
+      "name": "skrill",
+      "short_name": "skrill",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:32:15",
+      "deleted_at": null
+    },
+    {
+      "id": 100,
+      "name": "pecial Offer",
+      "short_name": "pecial_offer",
+      "created_at": "2022-07-20 16:31:46",
+      "updated_at": "2020-02-13 09:36:03",
+      "deleted_at": null
+    }
+  ],
+  "game_types": [
+    {
+      "id": "casino",
+      "name": "Casino"
+    },
+    {
+      "id": "sportsbook",
+      "name": "Sports Book"
+    },
+    {
+      "id": "bingo",
+      "name": "Bingo"
+    },
+    {
+      "id": "livecasino",
+      "name": "Live Casino"
+    },
+    {
+      "id": "bookmaker",
+      "name": "Bookmaker"
+    },
+    {
+      "id": "bonus",
+      "name": "Bonus"
+    },
+    {
+      "id": "poker",
+      "name": "Poker"
+    },
+    {
+      "id": "dfs",
+      "name": "Daily Fantasy Sports"
+    },
+    {
+      "id": "sweepstake",
+      "name": "Sweepstake"
+    },
+    {
+      "id": "lottery",
+      "name": "Lottery"
+    }
+  ],
+  "affiliate_programs": [
+    {
+      "id": 1449,
+      "name": "Bons Partners",
+      "short_name": "bons_partners",
+      "ask_gamblers_id": "5e944b63795fd360ee595b34",
+      "created_at": "2023-08-03T09:49:48.000000Z",
+      "updated_at": "2023-08-03T09:49:48.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1450,
+      "name": "LiveCasino Affiliate",
+      "short_name": "livecasino_affiliate",
+      "ask_gamblers_id": "5f3cdd63155a2d351d15dbb4",
+      "created_at": "2023-08-03T09:49:48.000000Z",
+      "updated_at": "2023-08-03T09:49:48.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1451,
+      "name": "DDP Affiliates",
+      "short_name": "ddp_affiliates",
+      "ask_gamblers_id": "5f918a785fa1c457477427d8",
+      "created_at": "2023-08-03T09:49:48.000000Z",
+      "updated_at": "2023-08-03T09:49:48.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1452,
+      "name": "Umiiumii Partners",
+      "short_name": "umiiumii_partners",
+      "ask_gamblers_id": "6038dc555f9920757a220541",
+      "created_at": "2023-08-03T09:49:48.000000Z",
+      "updated_at": "2023-08-03T09:49:48.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1453,
+      "name": "Nextwave Interactive Affiliates",
+      "short_name": "nextwave_interactive_affiliates",
+      "ask_gamblers_id": "607048847ade1e10b13b0033",
+      "created_at": "2023-08-03T09:49:48.000000Z",
+      "updated_at": "2023-08-03T09:49:48.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1454,
+      "name": "Kabuki Partners",
+      "short_name": "kabuki_partners",
+      "ask_gamblers_id": "60f164bccdb3a201412a75d3",
+      "created_at": "2023-08-03T09:49:48.000000Z",
+      "updated_at": "2023-08-03T09:49:48.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1455,
+      "name": "Aloha Shark Partners",
+      "short_name": "aloha_shark_partners",
+      "ask_gamblers_id": "62137eab5402517f2d0d4dce",
+      "created_at": "2023-08-03T09:49:48.000000Z",
+      "updated_at": "2023-08-03T09:49:48.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1389,
+      "name": "BTC365 Partners",
+      "short_name": "btc365_partners",
+      "ask_gamblers_id": "6436a8eaf67f08293409e7e7",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1390,
+      "name": "Kamikaze Affiliates",
+      "short_name": "kamikaze_affiliates",
+      "ask_gamblers_id": "643fdf6d5ee837a850031181",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1391,
+      "name": "Asino Affiliates",
+      "short_name": "asino_affiliates",
+      "ask_gamblers_id": "643fe7975548ee90e00cf990",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1392,
+      "name": "Wow Vegas Partners",
+      "short_name": "wow_vegas_partners",
+      "ask_gamblers_id": "64463f61539db2e74501e090",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1393,
+      "name": "BetMaximus affiliates",
+      "short_name": "betmaximus_affiliates",
+      "ask_gamblers_id": "644795bd0144e141fd038339",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1394,
+      "name": "Dream Team Affiliates",
+      "short_name": "dream_team_affiliates",
+      "ask_gamblers_id": "64523ee6718e9111ea020595",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1395,
+      "name": "Loro Partners",
+      "short_name": "loro_partners",
+      "ask_gamblers_id": "6454cbd561f82e45fd0bdcdf",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1396,
+      "name": "Kas.partners",
+      "short_name": "kaspartners",
+      "ask_gamblers_id": "645a121dd46241a474042c27",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1397,
+      "name": "Dexterbet Partners",
+      "short_name": "dexterbet_partners",
+      "ask_gamblers_id": "645a3d0015c55db1e800870e",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1398,
+      "name": "Shark Partners",
+      "short_name": "shark_partners",
+      "ask_gamblers_id": "645ce7321de365bad8061c6d",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1399,
+      "name": "VooPartners",
+      "short_name": "voopartners",
+      "ask_gamblers_id": "6463829b3692eba654063017",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1400,
+      "name": "RoySpinsPartners",
+      "short_name": "royspinspartners",
+      "ask_gamblers_id": "64663b573a829beb0f0ae248",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1401,
+      "name": "Pub Casino Affiliates",
+      "short_name": "pub_casino_affiliates",
+      "ask_gamblers_id": "646730c2d541ba6fdb0e7591",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1402,
+      "name": "Lolo Bet Partners",
+      "short_name": "lolo_bet_partners",
+      "ask_gamblers_id": "646b590fae7fd2e33d0ff25d",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1403,
+      "name": "BetFury Affiliates",
+      "short_name": "betfury_affiliates",
+      "ask_gamblers_id": "646e0d847cd63be6dc076da6",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1404,
+      "name": "Gambino Slots Affiliates",
+      "short_name": "gambino_slots_affiliates",
+      "ask_gamblers_id": "647061a1dd0043c79d02b348",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1405,
+      "name": "LuckyPokerBet Affilaites",
+      "short_name": "luckypokerbet_affilaites",
+      "ask_gamblers_id": "647467de1e788eadf10dfe51",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1406,
+      "name": "Fortune Coins Affiliates",
+      "short_name": "fortune_coins_affiliates",
+      "ask_gamblers_id": "64760c5c2a0940f04907455c",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1407,
+      "name": "King Dice Partners",
+      "short_name": "king_dice_partners",
+      "ask_gamblers_id": "64805150937625a1610074c9",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1408,
+      "name": "Dolfwin Partners",
+      "short_name": "dolfwin_partners",
+      "ask_gamblers_id": "6481a9eff923a58ce70966fc",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1409,
+      "name": "PlayBoom Affiliates",
+      "short_name": "playboom_affiliates",
+      "ask_gamblers_id": "6481bc142717d5c2fa07a6f0",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1410,
+      "name": "VidaBet Partners",
+      "short_name": "vidabet_partners",
+      "ask_gamblers_id": "6481cce793e93545c802256b",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1411,
+      "name": "Kaizen Gaming Partners",
+      "short_name": "kaizen_gaming_partners",
+      "ask_gamblers_id": "6482fcafdfb247210102a247",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1412,
+      "name": "Emir Partners",
+      "short_name": "emir_partners",
+      "ask_gamblers_id": "64872276e79b9459e706bd64",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1413,
+      "name": "GodBunny Affiliates",
+      "short_name": "godbunny_affiliates",
+      "ask_gamblers_id": "64883c7030fbe86c5f0ee612",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1414,
+      "name": "Lead Alliance Affiliates",
+      "short_name": "lead_alliance_affiliates",
+      "ask_gamblers_id": "64897f5445640a52040849ee",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1415,
+      "name": "CommissionDrive Affiliates",
+      "short_name": "commissiondrive_affiliates",
+      "ask_gamblers_id": "6491709f562a9df57504c015",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1416,
+      "name": "Run4Win Partners",
+      "short_name": "run4win_partners",
+      "ask_gamblers_id": "6492d8b9a63eb9688608707f",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1417,
+      "name": "FairSky Partners",
+      "short_name": "fairsky_partners",
+      "ask_gamblers_id": "64941ace9fe2a66ee80be6d1",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1418,
+      "name": "Betboom Partners",
+      "short_name": "betboom_partners",
+      "ask_gamblers_id": "649a94b75ad7ad17c109b3ef",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1419,
+      "name": "Flappy Affiliates",
+      "short_name": "flappy_affiliates",
+      "ask_gamblers_id": "649ecfcf3ef58e0df90f3244",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1420,
+      "name": "Betify Partners",
+      "short_name": "betify_partners",
+      "ask_gamblers_id": "64a40fdf99f5eb525e087167",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1421,
+      "name": "Top One Partners",
+      "short_name": "top_one_partners",
+      "ask_gamblers_id": "64a41290cfbcd82af900c41b",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1422,
+      "name": "NEO.bet Affiliates",
+      "short_name": "neobet_affiliates",
+      "ask_gamblers_id": "64a522a427f5e7c87c03f0f7",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1423,
+      "name": "iSpin Partners",
+      "short_name": "ispin_partners",
+      "ask_gamblers_id": "64abf1449ad60ef35e0d7152",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1424,
+      "name": "Wild Affiliates",
+      "short_name": "wild_affiliates",
+      "ask_gamblers_id": "57629efd7528f7fa4c8b456a",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1425,
+      "name": "AffChoice Affiliates",
+      "short_name": "affchoice_affiliates",
+      "ask_gamblers_id": "5b027cdd7528f7309e8b4568",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1426,
+      "name": "Red Ping Win Affiliates",
+      "short_name": "red_ping_win_affiliates",
+      "ask_gamblers_id": "5b066c2a7528f7597d8b4903",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1427,
+      "name": "Stakes Affiliates 2",
+      "short_name": "stakes_affiliates_2",
+      "ask_gamblers_id": "5b110beb7528f728878b4568",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1428,
+      "name": "Mr.PlayPartners2",
+      "short_name": "mrplaypartners2",
+      "ask_gamblers_id": "5b223d577528f735688b45c8",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1429,
+      "name": "React Affiliates",
+      "short_name": "react_affiliates",
+      "ask_gamblers_id": "5b44a53a7528f71cb28b4569",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1430,
+      "name": "Konung Affiliates",
+      "short_name": "konung_affiliates",
+      "ask_gamblers_id": "5b44a7177528f709b28b459a",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1431,
+      "name": "Dealers Affiliates",
+      "short_name": "dealers_affiliates",
+      "ask_gamblers_id": "5b7179417528f7360a8b4573",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1432,
+      "name": "LadyHammer Affiliates",
+      "short_name": "ladyhammer_affiliates",
+      "ask_gamblers_id": "5b72a17b7528f7c1138b4569",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1433,
+      "name": "Winfest Affiliates",
+      "short_name": "winfest_affiliates",
+      "ask_gamblers_id": "5b9b92907528f7593d8b4568",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1434,
+      "name": "V.Partners2",
+      "short_name": "vpartners2",
+      "ask_gamblers_id": "5bbb4df47528f755e58b45c3",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1435,
+      "name": "BetRebels Affiliate 2",
+      "short_name": "betrebels_affiliate_2",
+      "ask_gamblers_id": "5c52bcb76bfe20127e8b4568",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1436,
+      "name": "Twin Affiliates",
+      "short_name": "twin_affiliates",
+      "ask_gamblers_id": "5c58108d6bfe204fca8b4585",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1437,
+      "name": "Fairplay Affiliates",
+      "short_name": "fairplay_affiliates",
+      "ask_gamblers_id": "5c877d606bfe20fbe58b456d",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1438,
+      "name": "Lottomatica Affiliates",
+      "short_name": "lottomatica_affiliates",
+      "ask_gamblers_id": "5a9fde797528f7154b8b45f7",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1439,
+      "name": "Affiliazione SNAI",
+      "short_name": "affiliazione_snai",
+      "ask_gamblers_id": "5a9ff3227528f771668b45f0",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1440,
+      "name": "StarVegas Partners",
+      "short_name": "starvegas_partners",
+      "ask_gamblers_id": "5e33fc55344ee179920ebd9b",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1441,
+      "name": "Sisal Affiliati",
+      "short_name": "sisal_affiliati",
+      "ask_gamblers_id": "5e7cbb05084a270f8b2afa02",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1442,
+      "name": "Fantasyteam Affiliates",
+      "short_name": "fantasyteam_affiliates",
+      "ask_gamblers_id": "5ed0e12f5a3f9d44a64f7aa7",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1443,
+      "name": "Slottery Affiliates",
+      "short_name": "slottery_affiliates",
+      "ask_gamblers_id": "5eda00f39831f0048c7a065d",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1444,
+      "name": "BussinesYes Affiliates",
+      "short_name": "bussinesyes_affiliates",
+      "ask_gamblers_id": "5f4cd02d8516c8174d7ed917",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1445,
+      "name": "Pinterbet Affiliates",
+      "short_name": "pinterbet_affiliates",
+      "ask_gamblers_id": "5f6b040567a2d747ef73fec3",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1446,
+      "name": "Sportitaliabet Affiliates",
+      "short_name": "sportitaliabet_affiliates",
+      "ask_gamblers_id": "5f97dfaa13b6d301c81add53",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1447,
+      "name": "Vincitu Partners",
+      "short_name": "vincitu_partners",
+      "ask_gamblers_id": "5f9804e9775ce469db24bde3",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1448,
+      "name": "Test Partners AP",
+      "short_name": "test_partners_ap",
+      "ask_gamblers_id": "61712b725a0da665124e2a39",
+      "created_at": "2023-08-03T09:49:47.000000Z",
+      "updated_at": "2023-08-03T09:49:47.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1333,
+      "name": "Finlandia casino affiliates",
+      "short_name": "finlandia_casino_affiliates",
+      "ask_gamblers_id": "63622df2f255779b6301423f",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1334,
+      "name": "Bet Plays Partners",
+      "short_name": "bet_plays_partners",
+      "ask_gamblers_id": "63626da6dc48a86cee0c4f0f",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1335,
+      "name": "Bet24Star Affiliates",
+      "short_name": "bet24star_affiliates",
+      "ask_gamblers_id": "63638216ed5c06fc7a0c18b5",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1336,
+      "name": "Highbet affiliate",
+      "short_name": "highbet_affiliate",
+      "ask_gamblers_id": "636b7ac4c1cc70e7870adc13",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1337,
+      "name": "Bull Affiliates",
+      "short_name": "bull_affiliates",
+      "ask_gamblers_id": "6375fe8007b05aee0f0dbc6e",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1338,
+      "name": "Goat Gaming Affiliates",
+      "short_name": "goat_gaming_affiliates",
+      "ask_gamblers_id": "637b55c081724a3f60077a9e",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1339,
+      "name": "Bitvegas Affiliates",
+      "short_name": "bitvegas_affiliates",
+      "ask_gamblers_id": "637cb62ee5b2fd3cef009d9d",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1340,
+      "name": "JungliStars Affiliates",
+      "short_name": "junglistars_affiliates",
+      "ask_gamblers_id": "637debe38ac9afa3b40a9147",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1341,
+      "name": "Lucky Crypto Affiliates",
+      "short_name": "lucky_crypto_affiliates",
+      "ask_gamblers_id": "63847d18d18e8c0b9108c75f",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1342,
+      "name": "Zeus Partners",
+      "short_name": "zeus_partners",
+      "ask_gamblers_id": "6385e64b1c7746103809c0b4",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1343,
+      "name": "Gem Partner",
+      "short_name": "gem_partner",
+      "ask_gamblers_id": "63886364346ae9a5eb0ecc4b",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1344,
+      "name": "Heatz Affiliates",
+      "short_name": "heatz_affiliates",
+      "ask_gamblers_id": "638dac7819e014037c0e195e",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1345,
+      "name": "PlanetaXbet Affiliates",
+      "short_name": "planetaxbet_affiliates",
+      "ask_gamblers_id": "638dad3e0be7887ce007dd38",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1346,
+      "name": "Coinplay Partners",
+      "short_name": "coinplay_partners",
+      "ask_gamblers_id": "638f0d8b6eb092cc3502ec4c",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1347,
+      "name": "K8 Partners",
+      "short_name": "k8_partners",
+      "ask_gamblers_id": "6399c6fd5a1a8a03390e5e31",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1348,
+      "name": "Wild Partners",
+      "short_name": "wild_partners",
+      "ask_gamblers_id": "639add5ab096b78d2f013f2c",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1349,
+      "name": "BonusBet Partners",
+      "short_name": "bonusbet_partners",
+      "ask_gamblers_id": "63a19c0fb4de41b41b080383",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1350,
+      "name": "Royal Stars Affiliates",
+      "short_name": "royal_stars_affiliates",
+      "ask_gamblers_id": "63a965366e2ec4bb95005ca0",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1351,
+      "name": "Kryptosino Affiliates",
+      "short_name": "kryptosino_affiliates",
+      "ask_gamblers_id": "63aab2fa24aa155674070ceb",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1352,
+      "name": "Lottery Partner",
+      "short_name": "lottery_partner",
+      "ask_gamblers_id": "63b6c487a4741759fa02a159",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1353,
+      "name": "Vera Partners",
+      "short_name": "vera_partners",
+      "ask_gamblers_id": "63bd78be865d6c9d0b06bc96",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1354,
+      "name": "Coins Game Partners",
+      "short_name": "coins_game_partners",
+      "ask_gamblers_id": "63be8717e8b5e068150ef1dd",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1355,
+      "name": "Northstar Bets Affiliates",
+      "short_name": "northstar_bets_affiliates",
+      "ask_gamblers_id": "63ca553a27e005601d072638",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1356,
+      "name": "Qbet Partners",
+      "short_name": "qbet_partners",
+      "ask_gamblers_id": "63ce8fc1685be82ae00c2162",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1357,
+      "name": "Lucky Red Partners",
+      "short_name": "lucky_red_partners",
+      "ask_gamblers_id": "63cfc701fd19759e560ab668",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1358,
+      "name": "CrystalWG Partners",
+      "short_name": "crystalwg_partners",
+      "ask_gamblers_id": "63cfd019382126e1040fee13",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1359,
+      "name": "Cryptoboss Partners",
+      "short_name": "cryptoboss_partners",
+      "ask_gamblers_id": "63d133383d80e1b22802b4e2",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1360,
+      "name": "Lucky Block Affiliates",
+      "short_name": "lucky_block_affiliates",
+      "ask_gamblers_id": "63da88cdd23cc5637b066464",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1361,
+      "name": "Moonrocket Affiliates",
+      "short_name": "moonrocket_affiliates",
+      "ask_gamblers_id": "63ea302085f4fe8f1f0eac71",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1362,
+      "name": "Raja Affiliates",
+      "short_name": "raja_affiliates",
+      "ask_gamblers_id": "63f3687b8d666e271b0b5636",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1363,
+      "name": "Funrize Affiliates",
+      "short_name": "funrize_affiliates",
+      "ask_gamblers_id": "63f746a2b8b0e669af04963c",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1364,
+      "name": "Bet90 Affilaites",
+      "short_name": "bet90_affilaites",
+      "ask_gamblers_id": "63f8bb65d8e8f0400f05aae2",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1365,
+      "name": "Affiliates DIV",
+      "short_name": "affiliates_div",
+      "ask_gamblers_id": "63ff28ac7f43c3534f06b5b3",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1366,
+      "name": "Partners Casa",
+      "short_name": "partners_casa",
+      "ask_gamblers_id": "63ff33bb6d52498ff2076207",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1367,
+      "name": "Betssen Affilaites",
+      "short_name": "betssen_affilaites",
+      "ask_gamblers_id": "63ff6950c369bbdec201c56f",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1368,
+      "name": "Lala Stars Affilaites",
+      "short_name": "lala_stars_affilaites",
+      "ask_gamblers_id": "6401ffe9d667fd5fff0dfcf0",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1369,
+      "name": "WOW Partners",
+      "short_name": "wow_partners",
+      "ask_gamblers_id": "6406f3c14a592a4884002db2",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1370,
+      "name": "Jackpot Hunter Affiliates",
+      "short_name": "jackpot_hunter_affiliates",
+      "ask_gamblers_id": "6408ab00e09bc70dff0bb798",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1371,
+      "name": "PowerUp Partners",
+      "short_name": "powerup_partners",
+      "ask_gamblers_id": "640997e2743bbad26e006ab7",
+      "created_at": "2023-08-03T09:49:46.000000Z",
+      "updated_at": "2023-08-03T09:49:46.000000Z",
+      "deleted_at": null
+    }
+  ]
+}

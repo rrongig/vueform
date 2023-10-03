@@ -1,17 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <DynamicFields />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import DynamicFields from "./components/DynamicFields.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
+    DynamicFields
   }
-}
+};
 </script>
 
 <style>
