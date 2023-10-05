@@ -3,7 +3,6 @@ import axios from "axios";
 export const fetchItemsMixin = {
   methods: {
     async fetchItems(searchQuery, path, extraParam = null) {
-      console.log("extraParam", extraParam);
       try {
         const response = await axios.get(`http://localhost:3000/${path}`, {
           params: extraParam
