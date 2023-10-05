@@ -7,6 +7,8 @@
   >
     <GroupElement>
       <SelectElement
+        :can-clear="true"
+        ref="affiliate_programs"
         :submit="false"
         :limit="10"
         :search="true"
@@ -14,28 +16,17 @@
         :items="fetchAffiliatePrograms"
         value-prop="id"
         labelProp="name"
-        track-by="name"
-        label="Selling points"
+        label="Affiliate programs"
         :hideSelected="false"
         noOptionsText="No options"
         noResultsText="No results"
-        :close-on-select="false"
         placeholder="Placeholder"
+        :object="true"
+        @change="notifyComponent('selling_points', $event)"
       >
-        <template v-slot:option="{ option }">
-          <div
-            @click="
-              notifyComponent('selling_points', {
-                short_name: option['short_name']
-              })
-            "
-            class="w-100"
-          >
-            {{ option.name }}
-          </div>
-        </template>
       </SelectElement>
       <TagsElement
+        ref="selling_points"
         :submit="false"
         :limit="10"
         :search="true"
@@ -50,6 +41,7 @@
         noResultsText="No results"
         :close-on-select="false"
         placeholder="Placeholder"
+        :disabled="disabledFields.indexOf('selling_points') !== -1"
       >
         <template v-slot:option="{ option }">
           {{ option.name }} - {{ option.short_name }}
@@ -69,16 +61,41 @@ import { fetchItemsMixin } from "../mixins/fetchItemsMixin";
 export default {
   name: "HelloWorld",
   data() {
-    return {};
+    return {
+      disabledFields: [],
+      selectedAffiliateProgram: ""
+    };
   },
   props: {
     msg: String
   },
+  created() {
+    this.disabledFields = ["selling_points"];
+  },
   mixins: [fetchItemsMixin],
   methods: {
     notifyComponent(path, value) {
+      console.log(path, value);
+
       if (value) {
         this.fetchItems("", path, value);
+        this.enableField(path);
+      } else {
+        this.disableField(path);
+      }
+    },
+    enableField(path) {
+      const index = this.disabledFields.indexOf(path);
+      if (index !== -1) {
+        this.disabledFields.splice(index, 1);
+      }
+    },
+    disableField(path) {
+      console.log("disableField", path);
+      const index = this.disabledFields.indexOf(path);
+      if (index === -1) {
+        this.disabledFields.push(path);
+        this.$refs[path].clear();
       }
     },
     handleSubmit() {
