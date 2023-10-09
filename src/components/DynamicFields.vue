@@ -6,58 +6,58 @@
       ref="form$"
       :prepare="prepareSubmit"
     >
-      <GroupElement>
-        <SelectElement
-          :can-clear="true"
-          ref="affiliate_programs"
-          :submit="false"
-          :limit="10"
-          :search="true"
-          name="affiliate_programs"
-          :items="fetchAffiliatePrograms"
-          value-prop="id"
-          labelProp="name"
-          label="Affiliate programs"
-          noOptionsText="No options"
-          noResultsText="No results"
-          placeholder="Placeholder"
-          :object="true"
-          @change="selectAffiliateProgram"
-        >
-        </SelectElement>
-        <TagsElement
-          ref="selling_points"
-          :submit="false"
-          :limit="10"
-          :search="true"
-          name="selling_points"
-          :items="fetchSellingPoints"
-          value-prop="id"
-          labelProp="name"
-          track-by="name"
-          label="Selling points"
-          :hideSelected="false"
-          noOptionsText="No options"
-          noResultsText="No results"
-          :close-on-select="false"
-          placeholder="Placeholder"
-          :disabled="disabledFields.indexOf('selling_points') !== -1"
-          :object="true"
-          @change="selectSellingPoints"
-        >
-          <template v-slot:option="{ option }">
-            {{ option.name }} - {{ option.short_name }}
-          </template>
-        </TagsElement>
-        <TextElement
-          ref="name"
-          name="name"
-          label="Name"
-          type="text"
-          @change="changeText"
-          v-if="showTextElement"
-        ></TextElement>
-      </GroupElement>
+      <SelectElement
+        :can-clear="true"
+        ref="affiliate_programs"
+        :submit="false"
+        :limit="10"
+        :search="true"
+        name="affiliate_programs"
+        :items="fetchAffiliatePrograms"
+        value-prop="id"
+        labelProp="name"
+        label="Affiliate programs"
+        noOptionsText="No options"
+        noResultsText="No results"
+        placeholder="Placeholder"
+      >
+      </SelectElement>
+
+      <TagsElement
+        ref="selling_points"
+        :submit="false"
+        :limit="10"
+        :search="true"
+        name="selling_points"
+        :items="fetchSellingPoints"
+        value-prop="id"
+        labelProp="name"
+        track-by="name"
+        label="Selling points"
+        :hideSelected="false"
+        noOptionsText="No options"
+        noResultsText="No results"
+        :close-on-select="false"
+        placeholder="Placeholder"
+        :disabled="
+          $refs['form$'] && $refs['form$'].data.affiliate_programs == null
+        "
+      >
+        <!-- :disabled="" -->
+        <template v-slot:option="{ option }">
+          {{ option.name }} - {{ option.short_name }}
+        </template>
+      </TagsElement>
+      <TextElement
+        ref="name"
+        name="name"
+        label="Name"
+        type="text"
+        @change="changeText"
+        :conditions="[
+          ['affiliate_programs', '!=', null] && ['selling_points', '==', 5]
+        ]"
+      ></TextElement>
 
       <ButtonElement name="submit" add-class="mt-2" submits>
         Submit
