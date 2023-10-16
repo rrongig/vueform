@@ -1,14 +1,43 @@
 <template>
-  <DynamicFields />
+  <Vueform
+    class="form-styling"
+    @submit="handleSubmit"
+    ref="form$"
+    :prepare="prepareSubmit"
+  >
+    <DynamicField
+      v-for="model in models"
+      :key="model.name"
+      :model="model"
+      :form="this.$refs['form$']"
+    />
+    <ButtonElement name="submit" add-class="mt-2" submits>
+      Submit
+    </ButtonElement>
+  </Vueform>
 </template>
 
 <script>
-import DynamicFields from "./components/DynamicFields.vue";
+import DynamicField from "./components/DynamicField.vue";
+import { fetchItemsMixin } from "./mixins/fetchItemsMixin";
+import models from "./models/component-model";
 
 export default {
-  name: "App",
   components: {
-    DynamicFields
+    DynamicField
+  },
+  name: "App",
+  mixins: [fetchItemsMixin],
+  data() {
+    return {
+      models: models.getForm()
+    };
+  },
+  handleSubmit() {
+    console.log("handleSubmit", this.$refs.form$.data);
+  },
+  prepareSubmit(value) {
+    console.log("prepare submit", value);
   }
 };
 </script>
@@ -21,5 +50,13 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+.form-styling {
+  width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 </style>
