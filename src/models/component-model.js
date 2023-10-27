@@ -2,15 +2,17 @@ export default {
   getForm() {
     return [
       {
-        canClear: true,
         ref: "affiliate_programs",
+        canClear: true,
         submit: false,
-        limit: 10,
+        limit: 20,
         search: true,
         name: "affiliate_programs",
         items: "fetchAffiliatePrograms",
         valueProp: "id",
         labelProp: "name",
+        trackBy: "name",
+        hideSelected: false,
         label: "Affiliate programs",
         noOptionsText: "No options",
         noResultsText: "No results",

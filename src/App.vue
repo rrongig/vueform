@@ -9,11 +9,13 @@
       v-for="model in models"
       :key="model.name"
       :model="model"
-      :form="this.$refs['form$']"
+      :form="$refs['form$']"
     />
     <ButtonElement name="submit" add-class="mt-2" submits>
       Submit
     </ButtonElement>
+    selected:
+    {{ $refs.form$ && $refs.form$.data }}
   </Vueform>
 </template>
 
