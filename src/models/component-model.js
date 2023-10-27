@@ -2,6 +2,10 @@ export default {
   getForm() {
     return [
       {
+        ref: "content",
+        type: "TipTapElement",
+      },
+      {
         ref: "affiliate_programs",
         canClear: true,
         submit: false,
@@ -17,7 +21,7 @@ export default {
         noOptionsText: "No options",
         noResultsText: "No results",
         placeholder: "Placeholder",
-        type: "SelectElement"
+        type: "SelectElement",
       },
       {
         ref: "selling_points",
@@ -35,30 +39,28 @@ export default {
         closeOnSelect: false,
         placeholder: "Placeholder",
         disabledBy: "affiliate_programs",
-        type: "TagsElement"
+        type: "TagsElement",
       },
       {
         ref: "name",
         name: "name",
         label: "Name",
         type: "TextElement",
-        conditions: [
-          ["affiliate_programs", "!=", null] && ["selling_points", "==", 5]
-        ]
-      }
+        conditions: [["affiliate_programs", "!=", null] && ["selling_points", "==", 5]],
+      },
     ];
   },
   getConfig() {
     return {
       url: "sites/authors",
       name: "Author",
-      pagination: true
+      pagination: true,
     };
   },
   getStructure() {
     return {
       list: this.getForm(),
-      config: this.getConfig()
+      config: this.getConfig(),
     };
-  }
+  },
 };
