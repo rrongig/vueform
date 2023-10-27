@@ -3,6 +3,27 @@
     <template #element>
       <h2>TipTap hello Rron</h2>
       <TestingComponents />
+      <button @click="editor.chain().focus().toggleBulletList().run()">
+        toggleBulletList
+      </button>
+      <button @click="editor.chain().focus().toggleOrderedList().run()">
+        toggleOrderedList
+      </button>
+      <button @click="editor.chain().focus().splitListItem('listItem').run()">
+        splitListItem
+      </button>
+      <button @click="editor.chain().focus().sinkListItem('listItem').run()">
+        sinkListItem
+      </button>
+      <button @click="editor.chain().focus().liftListItem('listItem').run()">
+        liftListItem
+      </button>
+      <editor-content
+        :editor="editor"
+        v-model="content"
+        ref="editorContent"
+        class="border"
+      />
     </template>
   </ElementLayout>
 </template>
@@ -15,21 +36,30 @@ import TestingComponents from "./TestingComponents.vue";
 
 export default VueformElement(
   {
-    name: "TipTapElement",
-    components: {
-      EditorContent,
-      TestingComponents,
-    },
+    name: "TipTapElement"
   },
   {
+    components: {
+      EditorContent,
+      TestingComponents
+    },
+    data() {
+      return {
+        content: ""
+      };
+    },
     setup() {
       const editor = useEditor({
-        content: "<p>I’m running Tiptap with Vue.js. 🎉</p>",
+        content: this.content,
         extensions: [StarterKit],
+        onUpdate: () => {
+          // console.log(editor.getHTML());
+          console.log({ content: this.content });
+        }
       });
 
       return { editor };
-    },
+    }
   }
 );
 </script>

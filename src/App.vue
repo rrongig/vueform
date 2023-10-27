@@ -1,7 +1,19 @@
 <template>
-  <Vueform class="form-styling" @submit="handleSubmit" ref="form$" :prepare="prepareSubmit">
-    <DynamicField v-for="model in models" :key="model.name" :model="model" :form="$refs['form$']" />
-    <ButtonElement name="submit" add-class="mt-2" submits> Submit </ButtonElement>
+  <Vueform
+    class="form-styling"
+    @submit="handleSubmit"
+    ref="form$"
+    :prepare="prepareSubmit"
+  >
+    <DynamicField
+      v-for="model in models"
+      :key="model.name"
+      :model="model"
+      :form="$refs['form$']"
+    />
+    <ButtonElement name="submit" add-class="mt-2" submits>
+      Submit
+    </ButtonElement>
     selected:
     {{ $refs.form$ && $refs.form$.data }}
   </Vueform>
@@ -14,21 +26,23 @@ import models from "./models/component-model";
 
 export default {
   components: {
-    DynamicField,
+    DynamicField
   },
   name: "App",
   mixins: [fetchItemsMixin],
   data() {
     return {
-      models: models.getForm(),
+      models: models.getForm()
     };
   },
-  handleSubmit() {
-    console.log("handleSubmit", this.$refs.form$.data);
-  },
-  prepareSubmit(value) {
-    console.log("prepare submit", value);
-  },
+  methods: {
+    handleSubmit() {
+      console.log("handleSubmit", this.$refs.form$.data);
+    },
+    prepareSubmit(value) {
+      console.log("prepare submit", value);
+    }
+  }
 };
 </script>
 
