@@ -1,48 +1,22 @@
 <template>
-  <Vueform
-    class="form-styling"
-    @submit="handleSubmit"
-    ref="form$"
-    :prepare="prepareSubmit"
-  >
-    <DynamicField
-      v-for="model in models"
-      :key="model.name"
-      :model="model"
-      :form="$refs['form$']"
-    />
-    <ButtonElement name="submit" add-class="mt-2" submits>
-      Submit
-    </ButtonElement>
-    selected:
-    {{ $refs.form$ && $refs.form$.data }}
-  </Vueform>
+  <div class="container">
+    <AuthorForm />
+  </div>
 </template>
 
 <script>
-import DynamicField from "./components/DynamicField.vue";
-import { fetchItemsMixin } from "./mixins/fetchItemsMixin";
-import models from "./models/component-model";
+import AuthorForm from "./components/AuthorForm.vue";
+// import DynamicField from "./components/DynamicField.vue";
 
 export default {
   components: {
-    DynamicField
+    // DynamicField,
+    AuthorForm,
   },
   name: "App",
-  mixins: [fetchItemsMixin],
   data() {
-    return {
-      models: models.getForm()
-    };
+    return {};
   },
-  methods: {
-    handleSubmit() {
-      console.log("handleSubmit", this.$refs.form$.data);
-    },
-    prepareSubmit(value) {
-      console.log("prepare submit", value);
-    }
-  }
 };
 </script>
 

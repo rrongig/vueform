@@ -1,66 +1,58 @@
+const getSocials = () => {
+  let socials = {};
+  ["facebook_profile", "linkedin_profile", "twitter_profile"].forEach((social) => {
+    socials[social] = {
+      type: "text",
+      label: social.replaceAll("_", " "),
+      rules: "required",
+      columns: 6,
+    };
+  });
+  return socials;
+};
 export default {
-  getForm() {
-    return [
-      {
-        ref: "content",
-        type: "TipTapElement",
+  schema: {
+    personal_information: {
+      type: "group",
+      label: "Personal information",
+      schema: {
+        name: {
+          type: "text",
+          label: "Name",
+          rules: "required",
+          columns: 6,
+        },
+        display_name: {
+          type: "text",
+          placeholder: "Display name",
+          label: "Display name",
+          rules: "required",
+          columns: 6,
+        },
       },
-      {
-        ref: "affiliate_programs",
-        canClear: true,
-        submit: false,
-        limit: 20,
-        search: true,
-        name: "affiliate_programs",
-        items: "fetchAffiliatePrograms",
-        valueProp: "id",
-        labelProp: "name",
-        trackBy: "name",
-        hideSelected: false,
-        label: "Affiliate programs",
-        noOptionsText: "No options",
-        noResultsText: "No results",
-        placeholder: "Placeholder",
-        type: "SelectElement",
-      },
-      {
-        ref: "selling_points",
-        submit: false,
-        limit: 10,
-        search: true,
-        name: "selling_points",
-        valueProp: "id",
-        labelProp: "name",
-        trackBy: "name",
-        label: "Selling points",
-        hideSelected: false,
-        noOptionsText: "No options",
-        noResultsText: "No results",
-        closeOnSelect: false,
-        placeholder: "Placeholder",
-        disabledBy: "affiliate_programs",
-        type: "TagsElement",
-      },
-      {
-        ref: "name",
-        name: "name",
-        label: "Name",
-        type: "TextElement",
-        conditions: [["affiliate_programs", "!=", null] && ["selling_points", "==", 5]],
-      },
-    ];
-  },
-  getConfig() {
-    return {
-      url: "sites/authors",
-      name: "Author",
-      pagination: true,
-    };
-  },
-  getStructure() {
-    return {
-      list: this.getForm(),
-      config: this.getConfig(),
-    };
+    },
+    country_id: {
+      type: "select",
+      label: "Country",
+      items: "http://core.local.com/v0.1/globals/countries",
+      "label-prop": "name",
+      "value-prop": "id",
+      "data-key": "result",
+      "track-by": "id",
+      native: false,
+    },
+    socials: {
+      type: "group",
+      label: "Socials",
+      schema: getSocials(),
+    },
+    expertise: {
+      type: "tags",
+      // items: ["lol", "lol2"],
+      // props: {
+      // create: true,
+      "append-new-option": true,
+      // },
+    },
   },
 };
