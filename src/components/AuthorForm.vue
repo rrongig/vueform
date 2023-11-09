@@ -1,5 +1,6 @@
 <template>
   <Vueform :schema="schema" ref="form$"></Vueform>
+  <div v-if="form$"><json-viewer :value="form$.data" :expand-depth="2" /></div>
 </template>
 
 <script>

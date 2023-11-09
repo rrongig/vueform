@@ -31,14 +31,18 @@ export default {
         },
       },
     },
+    biography: {
+      type: "tip_tap",
+      label: "Biography",
+    },
     country_id: {
       type: "select",
       label: "Country",
       items: "http://core.local.com/v0.1/globals/countries",
       "label-prop": "name",
-      "value-prop": "id",
-      "data-key": "result",
-      "track-by": "id",
+      // "value-prop": "id",
+      // "data-key": "result",
+      // "track-by": "id",
       native: false,
     },
     socials: {
