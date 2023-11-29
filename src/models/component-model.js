@@ -1,3 +1,15 @@
+// import axios from "axios";
+
+// const getCountries = async searchQuery => {
+//   console.log("searchQuery", searchQuery);
+//   const response = await axios.get(
+//     "http://core.local.com/v0.1/globals/countries"
+//     // { params: { search: searchQuery } }
+//   );
+//   console.log("response", response);
+//   return response.data;
+// };
+
 const getSocials = () => {
   let socials = {};
   ["facebook_profile", "linkedin_profile", "twitter_profile"].forEach(
@@ -41,6 +53,8 @@ export default {
       type: "select",
       label: "Country",
       items: "http://core.local.com/v0.1/globals/countries",
+      // items: getCountries(),
+      search: true,
       object: true,
       "label-prop": "name",
       "value-prop": "id",
@@ -54,11 +68,11 @@ export default {
     },
     expertise: {
       type: "tags",
-      // items: ["lol", "lol2"],
-      // props: {
-      // create: true,
+      items: ["lol", "lol2"],
+      label: "Expertise",
+      search: true,
+      create: true,
       "append-new-option": true
-      // },
     }
   }
 };
