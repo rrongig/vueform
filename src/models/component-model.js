@@ -45,8 +45,7 @@ export default {
       search: true,
       delay: 100,
       "filter-results": false,
-      items: async function (query, input) {
-        console.log(query, input);
+      items: async function (query) {
         return (
           await axios.get(
             `http://core.local.com/v0.1/globals/countries${
