@@ -1953,10 +1953,10 @@
   resolved "https://registry.yarnpkg.com/@vueform/toggle/-/toggle-2.1.3.tgz#6aeec2feefb95d8e543cedbeac41f977b977f6e4"
   integrity sha512-2W0D23Gj0X+YzE6cvWI6QeD68JBfTuABfwZTmViF0Yicc91+6KBisDkItlCVm2/Q9+Fe2kk2g0ZjFfJvkXgleQ==
 
-"@vueform/vueform@^1.5.6":
-  version "1.5.6"
-  resolved "https://registry.yarnpkg.com/@vueform/vueform/-/vueform-1.5.6.tgz#dc563aa1a44b3bffd671b26445a6fabc110472bb"
-  integrity sha512-C3iQu6nvYu7AOWWbj3ac/LUHPl5+6pR3v5dq+JACW+RWNY2/QAK7TnsUuvjCnmoOfg9KP5YcDIKXeOu5SHFIJw==
+"@vueform/vueform@^1.6.3":
+  version "1.6.3"
+  resolved "https://registry.yarnpkg.com/@vueform/vueform/-/vueform-1.6.3.tgz#33da8f4c50d6808e727a883ab3aece035bf4563e"
+  integrity sha512-JHLkz314eT2EljwBuIMsKBWEYO50M8cR7flj5k2K1KGeq5aVjhibeOCDp5I9bWFk+60lfTLui6d/1v9KHaImtA==
   dependencies:
     "@popperjs/core" "^2.11.8"
     "@vueform/multiselect" "^2.6.3"

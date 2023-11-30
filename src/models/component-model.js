@@ -1,14 +1,4 @@
-// import axios from "axios";
-
-// const getCountries = async searchQuery => {
-//   console.log("searchQuery", searchQuery);
-//   const response = await axios.get(
-//     "http://core.local.com/v0.1/globals/countries"
-//     // { params: { search: searchQuery } }
-//   );
-//   console.log("response", response);
-//   return response.data;
-// };
+import axios from "axios";
 
 const getSocials = () => {
   let socials = {};
@@ -52,9 +42,20 @@ export default {
     country_id: {
       type: "select",
       label: "Country",
-      items: "http://core.local.com/v0.1/globals/countries",
-      // items: getCountries(),
       search: true,
+      native: true,
+      delay: 1000,
+      "filter-results": false,
+      items: async function (query, input) {
+        console.log(query, input);
+        return (
+          await axios.get(
+            `http://core.local.com/v0.1/globals/countries${
+              query && query.length ? "?search=" + query : ""
+            }`
+          )
+        ).data.result;
+      },
       object: true,
       "label-prop": "name",
       "value-prop": "id",
