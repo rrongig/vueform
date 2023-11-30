@@ -43,8 +43,7 @@ export default {
       type: "select",
       label: "Country",
       search: true,
-      native: true,
-      delay: 1000,
+      delay: 100,
       "filter-results": false,
       items: async function (query, input) {
         console.log(query, input);
