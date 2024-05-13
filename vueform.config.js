@@ -8,5 +8,5 @@ export default {
   theme: vueform,
   locales: { en },
   locale: "en",
-  elements: [TipTapElement, RatingElement],
+  elements: [TipTapElement, RatingElement]
 };

@@ -6,7 +6,12 @@
       <button @click="editor.chain().focus().splitListItem('listItem').run()">splitListItem</button>
       <button @click="editor.chain().focus().sinkListItem('listItem').run()">sinkListItem</button>
       <button @click="editor.chain().focus().liftListItem('listItem').run()">liftListItem</button> -->
-      <editor-content :editor="editor" v-model="content" ref="editorContent" class="border" />
+      <editor-content
+        :editor="editor"
+        v-model="content"
+        ref="editorContent"
+        class="border h-100"
+      />
     </template>
   </ElementLayout>
 </template>
@@ -18,15 +23,15 @@ import StarterKit from "@tiptap/starter-kit";
 
 export default VueformElement(
   {
-    name: "TipTapElement",
+    name: "TipTapElement"
   },
   {
     components: {
-      EditorContent,
+      EditorContent
     },
     data() {
       return {
-        content: "",
+        content: ""
       };
     },
     setup() {
@@ -36,11 +41,11 @@ export default VueformElement(
         onUpdate: () => {
           // console.log(editor.getHTML());
           console.log({ content: this.content });
-        },
+        }
       });
 
       return { editor };
-    },
+    }
   }
 );
 </script>

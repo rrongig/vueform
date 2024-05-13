@@ -11,12 +11,12 @@ import AuthorForm from "./components/AuthorForm.vue";
 export default {
   components: {
     // DynamicField,
-    AuthorForm,
+    AuthorForm
   },
   name: "App",
   data() {
     return {};
-  },
+  }
 };
 </script>
 
