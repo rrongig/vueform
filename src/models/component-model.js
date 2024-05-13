@@ -39,7 +39,7 @@ export default {
       type: "tip_tap",
       label: "Biography"
     },
-    country_id: {
+    country: {
       type: "select",
       label: "Country",
       search: true,
