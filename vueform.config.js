@@ -1,12 +1,11 @@
-import en from "@vueform/vueform/locales/en";
-import vueform from "@vueform/vueform/themes/vueform";
-import TipTapElement from "@/components/TipTapElement.vue";
-import RatingElement from "@/components/RatingElement.vue";
-import "@vueform/vueform/themes/vueform/css/index.min.css";
+// vueform.config.(js|ts)
 
-export default {
+import en from "@vueform/vueform/locales/en";
+import vueform from "@vueform/vueform/dist/vueform";
+import { defineConfig } from "@vueform/vueform";
+
+export default defineConfig({
   theme: vueform,
   locales: { en },
-  locale: "en",
-  elements: [TipTapElement, RatingElement]
-};
+  locale: "en"
+});

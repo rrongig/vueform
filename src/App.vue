@@ -21,6 +21,7 @@ export default {
 </script>
 
 <style>
+@import "./../node_modules/@vueform/vueform/dist/vueform.css";
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
